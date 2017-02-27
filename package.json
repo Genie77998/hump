@@ -1,0 +1,12 @@
+{
+  "name": "hump",
+  "version": "1.0.0",
+  "description": "converter for strings in JavaScript",
+  "main": "index.js",
+  "repository": "https://github.com/Genie77998/hump.git",
+  "author": "wj77998",
+  "license": "MIT",
+  "scripts":{
+  	"test" : "mocha"
+  }
+}
